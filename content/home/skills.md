@@ -16,18 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 
+  icon: chart-line
+  icon_pack: fas
+  name: Experimental Medicine
+- description: 
+  icon: brain-circuit
+  icon_pack: fas
+  name: Cognitive Neuroscience
+- description: 
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
+- description: 
+  icon: python
+  icon_pack: fab
+  name: Python
+- description:
+  icon: square-terminal
   icon_pack: fas
-  name: Statistics
-- description: Approved under section 12(2) of the Mental Health Act
-  icon: gavel
+  name: Shell Scripting
+- description:
+  icon: file-pen
   icon_pack: fas
-  name: Section 12 Doctor
+  name: Academic Writing
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
