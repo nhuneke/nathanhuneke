@@ -21,8 +21,8 @@ feature:
   icon_pack: fas
   name: Experimental Medicine
 - description: 
-  icon: brain-circuit
-  icon_pack: far
+  icon: brain
+  icon_pack: fas
   name: Cognitive Neuroscience
 - description: 
   icon: r-project
@@ -33,12 +33,12 @@ feature:
   icon_pack: fab
   name: Python
 - description:
-  icon: square-terminal
-  icon_pack: far
+  icon: terminal
+  icon_pack: fas
   name: Shell Scripting
 - description:
-  icon: file-pen
-  icon_pack: far
+  icon: pen-fancy
+  icon_pack: fas
   name: Academic Writing
 
 # Uncomment to use emoji icons.
