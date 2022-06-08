@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: Approved under section 12(2) of the Mental Health Act
+  icon: gavel
   icon_pack: fas
-  name: Photography
+  name: Section 12 Doctor
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
