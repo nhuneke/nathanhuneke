@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-01-01"
-  description: ""
+  description: "A singular award for excellent research"
   organization: British Association for Psychopharmacology
   organization_url: 
   title: Junior Clinical Psychopharmacology Award
@@ -43,8 +43,8 @@ item:
   date_end: ""
   date_start: "2017-01-01"
   description: |2-
-    "Poster title: 'Belief about treatment allocation predicts placebo response in the 7.5% CO2 
-    inhalational model of anxiety'"
+    Poster title: 'Belief about treatment allocation predicts placebo response in the 7.5% CO2 
+    inhalational model of anxiety'
   organization: Southampton Neuroscience Group (SoNG)
   organization_url:
   title: Best Poster, SoNG Annual Meeting
@@ -53,10 +53,18 @@ item:
   date_end: ""
   date_start: "2012-01-01"
   description: |2-
-    "A studentship awarded by the MRes programme to facilitate the work of two outstanding students"
+    A studentship awarded by the MRes programme to facilitate the work of two outstanding students
   organization: Association of Physicians
   organization_url: 
   title: Association of Physicians Undergraduate Studentship for the MRes in Medical Sciences Course
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2012-01-01"
+  description: ""
+  organization: The Royal Society of Medicine
+  organization_url: 
+  title: Intellectual Disability Forum Student Prize
   url: ""
 
 design:
