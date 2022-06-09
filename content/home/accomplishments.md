@@ -28,7 +28,7 @@ item:
   date_start: "2020-01-01"
   description: "A singular award for excellent research"
   organization: British Association for Psychopharmacology
-  organization_url: 
+  organization_url: "https://bap.org.uk"
   title: Junior Clinical Psychopharmacology Award
   url: "https://www.bap.org.uk/awardinfo.php?awardinfoID=2&year=2020"
 - certificate_url: 
