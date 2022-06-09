@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: 
   date_end: ""
-  date_start: "2020"
+  date_start: "2020-01-01"
   description: ""
   organization: British Association for Psychopharmacology
   organization_url: 
@@ -33,7 +33,7 @@ item:
   url: "https://www.bap.org.uk/awardinfo.php?awardinfoID=2&year=2020"
 - certificate_url: 
   date_end: ""
-  date_start: "2020"
+  date_start: "2020-01-01"
   description: "The competition took place at the NIHR Maudsley BRC Trainees' conference"
   organization: NIHR Maudsley BRC
   organization_url:
@@ -41,7 +41,7 @@ item:
   url: "https://www.maudsleybrc.nihr.ac.uk/training/trainees-conference-2020/"
 - certificate_url: 
   date_end: ""
-  date_start: "2017"
+  date_start: "2017-01-01"
   description: |2-
     "Poster title: 'Belief about treatment allocation predicts placebo response in the 7.5% CO2 
     inhalational model of anxiety'"
@@ -51,7 +51,7 @@ item:
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2012"
+  date_start: "2012-01-01"
   description: |2-
     "A studentship awarded by the MRes programme to facilitate the work of two outstanding students"
   organization: Association of Physicians
