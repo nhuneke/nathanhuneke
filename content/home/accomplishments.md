@@ -10,12 +10,12 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards and Honours'
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+# date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,30 +23,27 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+- date_end: ""
+  date_start: "2020"
+  organization: British Association for Psychopharmacology
+  title: Junior Clinical Psychopharmacology Award
+  url: "https://www.bap.org.uk/awardinfo.php?awardinfoID=2&year=2020"
+- date_end: ""
+  date_start: "2020"
+  description: "The competition took place at the NIHR Maudsley BRC Trainees' conference"
+  organization: NIHR Maudsley BRC
+  title: Winner of the 'Early-stage PhD' 3-minute thesis competition
+  url: "https://www.maudsleybrc.nihr.ac.uk/training/trainees-conference-2020/"
+- date_end: "2017"
+  date_start: ""
+  description: "Poster title: 'Belief about treatment allocation predicts placebo response in the 7.5% CO2 inhalational model of anxiety'"
+  organization: Southampton Neuroscience Group (SoNG)
+  title: Best Poster, SoNG Annual Meeting
+- date_end: "2012"
+  date_start: ""
+  description: "A studentship awarded by the MRes programme to facilitate the work of two outstanding students"
+  organization: Association of Physicians
+  title: Association of Physicians Undergraduate Studentship for the MRes in Medical Sciences Course
 
 design:
   columns: '2' 
