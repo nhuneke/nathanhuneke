@@ -1,21 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Pharmacotherapy in generalized anxiety disorder: novel experimental medicine
-  models and emerging drug targets'
+title: 'A Modified Trier Social Stress Test to Investigate Social Anxiety using Videoconferencing
+  Software: A Proof-of-Concept study'
 subtitle: ''
 summary: ''
 authors:
-- D.S. Baldwin
-- R. Hou
-- R. Gordon
 - **N. T. M. Huneke**
-- Matthew Garner
+- H. Rowlatt
+- J. Hyde
+- A. McEwan
+- L. Maryan
+- D. S. Baldwin
+- M. Garner
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2022-05-25T22:03:21+01:00
-featured: false
+date: '2021-01-01'
+lastmod: 2022-06-13T16:41:46+01:00
+featured: true
 draft: false
 
 # Featured image
@@ -32,10 +34,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-13T15:52:33.972773Z'
+publishDate: '2022-06-13T15:52:35.361516Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*CNS drugs*'
-url_pdf: https://link.springer.com/content/pdf/10.1007%2Fs40263-017-0423-2.pdf
+publication: '*PsyArxiv*'
+doi: 10.31234/osf.io/q5rbj
 ---

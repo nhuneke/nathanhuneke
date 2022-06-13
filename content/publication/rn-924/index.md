@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. E. L. Walsh
-- N. T. M. Huneke
+- **N. T. M. Huneke**
 - R. Brown
 - M. Browning
 - P. Cowen
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-25T21:03:21.446627Z'
+publishDate: '2022-06-13T15:52:33.824861Z'
 publication_types:
 - '2'
 abstract: 'Background: Previous research indicates that antidepressants can restore

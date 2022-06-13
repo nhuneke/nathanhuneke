@@ -6,7 +6,7 @@ title: No evidence for an acute placebo effect on emotional processing in health
 subtitle: ''
 summary: ''
 authors:
-- N. T. Huneke
+- **N. T. M. Huneke**
 - A. E. Walsh
 - R. Brown
 - M. Browning
@@ -18,7 +18,7 @@ tags:
 categories: []
 date: '2017-01-01'
 lastmod: 2022-05-25T22:03:21+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-25T21:03:21.295547Z'
+publishDate: '2022-06-13T15:52:33.630132Z'
 publication_types:
 - '2'
 abstract: Placebo-controlled trials are the gold standard measure of efficacy in the

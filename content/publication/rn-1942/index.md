@@ -6,20 +6,20 @@ title: 'Functional neuroimaging correlates of placebo response in patients with 
 subtitle: ''
 summary: ''
 authors:
-- Nathan Huneke
-- Ibrahim H Aslan
-- Harry Fagan
-- Naomi Phillips
-- Rhea Tanna
-- Samuele Cortese
-- Matthew Garner
-- David S Baldwin
+- **N. T. M. Huneke**
+- I. H. Aslan
+- H. Fagan
+- N. Phillips
+- R. Tanna
+- S. Cortese
+- M. Garner
+- D. S. Baldwin
 tags:
 - Placebo response anxiety depression functional neuroimaging
 categories: []
 date: '2022-01-01'
 lastmod: 2022-05-25T22:03:22+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-25T21:03:22.400144Z'
+publishDate: '2022-06-13T15:52:34.577107Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: The mechanisms underlying placebo effects of psychotropic drugs
@@ -57,9 +57,9 @@ abstract: 'BACKGROUND: The mechanisms underlying placebo effects of psychotropic
   Several brain regions and molecular systems may be involved in these placebo effects.
   Further adequately powered studies exploring causality and controlling for confounders
   are required.'
-publication: '*International Journal of Neuropsychopharmacology*'
+publication: '*Int J Neuropsychopharmacol*'
 doi: 10.1093/ijnp/pyac009
 links:
 - name: URL
-  url: https://www.ncbi.nlm.nih.gov/pubmed/35078210
+  url: https://www.ncbi.nlm.nih.gov/pubmed/35078210 https://watermark.silverchair.com/pyac009.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtcwggLTBgkqhkiG9w0BBwagggLEMIICwAIBADCCArkGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMXDfvzGwSSbGYFlBcAgEQgIICipbdKOHBfzu6TEM_9IX6JP69fjx6YRgc_qOrWQERc0iWPLc0SMisIOABhVkOvksHyHFefJGEIJuLGoZ2BzA37zUFa-cUnifLs_fi6T6YHfaO97OYyS8DHPEKfbGb5itonryzMDo_V7SSXtBQQvBDk77QGlGLbsYd-lGTYJ7bBF70NV7EaW_ziV8wMAtNMsk9AJklP8nDO2NJQlEFqPC6c05OQyTQRJrNwiFyJSpTaYMPYxNs5Gf0v3GvQOgOB6XxJXCNKDyB6LyP_v5BoCNLq7FN-qDQcFUSYvBixWAscxSooj-IiZV2ciV4GueE1ROZrOpyWBsKECVxnpuJILBo9kW27-yJAk0GUPjCLU2dmRQMErYr8eVaApk-AWmt87HWoH_ZZG4errHANkqfIcz0wOwsZu_bf0I05qeZ3Y3UQ4HoVus4BnbasYpiZ0nGycnaeL4TKXNGqKnK6--_DoyG-zhvkAtsEEoH55hDqEPGbCXldsYn3YkxVc84XWGSs2di-Itg7d3vhNOv3oTZjoDPAmLVNlZ608OTolBzdJFvviA2bTDVefdjsC_G29hFVlTKZjxZ0lrjmJNH9L8IMtYTlMEluKhMB7ZKpBcrZFXlScEoAJrgT0kuk3_1xhKjlc0ZKAVW2Z1p12LAtJIK4d0jrZwoo_MurC_l8w46uskFUiifbkQWc_xG4zi37oR8nzqZRGmO1K3d5N9FUN6sriw7jcJPICoGE1mMg_1JPGZWMY3TAT2BPmH2nx8YGNbb0RDfhlyE547ybmIJ1BQ7FncdPK4oI-LVWYdeQ28fQ4aykuk18PxpAWniGyA24BjESBfOqX6vNdrIaV-9EH8zgFqzIg88EIqkT-X_Civv
 ---

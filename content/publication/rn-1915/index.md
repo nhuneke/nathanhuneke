@@ -6,7 +6,7 @@ title: 'Brain Functional Connectivity Correlates of Response in the 7.5% CO2 Inh
 subtitle: ''
 summary: ''
 authors:
-- N. T. M. Huneke
+- **N. T. M. Huneke**
 - M. J. Broulidakis
 - A. Darekar
 - D. S. Baldwin
@@ -16,7 +16,7 @@ tags:
 categories: []
 date: '2020-01-01'
 lastmod: 2022-05-25T22:03:22+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-25T21:03:22.098719Z'
+publishDate: '2022-06-13T15:52:34.259758Z'
 publication_types:
 - '2'
 abstract: 'BACKGROUND: The 7.5% CO2 inhalational model can be used to explore potential

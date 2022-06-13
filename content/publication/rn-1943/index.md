@@ -1,20 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Pharmacotherapy in generalized anxiety disorder: novel experimental medicine
-  models and emerging drug targets'
+title: 'Difficult decisions: are intellectually disabled patients given enough information
+  to consent to medical treatment?'
 subtitle: ''
 summary: ''
 authors:
-- D.S. Baldwin
-- R. Hou
-- R. Gordon
 - **N. T. M. Huneke**
-- Matthew Garner
+- R. Gupta
+- N. Halder
+- N. Chaudhry
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2022-05-25T22:03:21+01:00
+date: '2012-01-01'
+lastmod: 2022-06-13T16:41:46+01:00
 featured: false
 draft: false
 
@@ -32,10 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-13T15:52:33.972773Z'
+publishDate: '2022-06-13T15:52:34.756295Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*CNS drugs*'
-url_pdf: https://link.springer.com/content/pdf/10.1007%2Fs40263-017-0423-2.pdf
+publication: '*Journal of Intellectual Disabilities*'
+links:
+- name: URL
+  url: https://journals.sagepub.com/doi/10.1177/1744629512462179?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&
+    https://journals.sagepub.com/doi/10.1177/1744629512462179?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed
 ---

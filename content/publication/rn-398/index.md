@@ -5,7 +5,7 @@ title: Experimental placebo analgesia changes resting-state alpha oscillations
 subtitle: ''
 summary: ''
 authors:
-- N. T. Huneke
+- **N. T. M. Huneke**
 - C. A. Brown
 - E. Burford
 - A. Watson
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-25T21:03:10.305665Z'
+publishDate: '2022-06-13T15:52:33.138576Z'
 publication_types:
 - '2'
 abstract: The lack of clear understanding of the pathophysiology of chronic pain could

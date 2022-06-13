@@ -1,20 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Pharmacotherapy in generalized anxiety disorder: novel experimental medicine
-  models and emerging drug targets'
+title: Treatment of anxiety disorders
 subtitle: ''
 summary: ''
 authors:
-- D.S. Baldwin
-- R. Hou
-- R. Gordon
+- D. S. Baldwin
 - **N. T. M. Huneke**
-- Matthew Garner
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2022-05-25T22:03:21+01:00
+date: '2020-01-01'
+lastmod: 2022-06-13T16:41:46+01:00
 featured: false
 draft: false
 
@@ -32,10 +28,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-13T15:52:33.972773Z'
+publishDate: '2022-06-13T15:52:35.197085Z'
 publication_types:
-- '2'
+- '6'
 abstract: ''
-publication: '*CNS drugs*'
-url_pdf: https://link.springer.com/content/pdf/10.1007%2Fs40263-017-0423-2.pdf
+publication: '*New Oxford Textbook of Psychiatry*'
+doi: 10.1093/med/9780198713005.003.0092
 ---

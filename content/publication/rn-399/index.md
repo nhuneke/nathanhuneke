@@ -6,7 +6,7 @@ title: Does previous experience of antidepressants form the expectations necessa
 subtitle: ''
 summary: ''
 authors:
-- N. T. Huneke
+- **N. T. M. Huneke**
 - D. S. Baldwin
 tags: []
 categories: []
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-25T21:03:21.123326Z'
+publishDate: '2022-06-13T15:52:33.472689Z'
 publication_types:
 - '2'
 abstract: ''

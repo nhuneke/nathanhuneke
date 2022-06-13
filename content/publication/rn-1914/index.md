@@ -5,7 +5,7 @@ title: Why we need more research into the placebo response in psychiatry
 subtitle: ''
 summary: ''
 authors:
-- N. T. M. Huneke
+- **N. T. M. Huneke**
 - N. van der Wee
 - M. Garner
 - D. S. Baldwin
@@ -14,7 +14,7 @@ tags:
 categories: []
 date: '2020-01-01'
 lastmod: 2022-05-25T22:03:22+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-25T21:03:21.953112Z'
+publishDate: '2022-06-13T15:52:34.114403Z'
 publication_types:
 - '2'
 abstract: Placebos are not inert, but exert measurable biological effects. The placebo

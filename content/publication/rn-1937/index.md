@@ -6,16 +6,16 @@ title: Diverse predictors of treatment response to active medication and placebo
 subtitle: ''
 summary: ''
 authors:
-- Nathan T. M. Huneke
-- Samuel R. Chamberlain
-- David S. Baldwin
-- Jon E. Grant
+- **N. T. M. Huneke**
+- S. R. Chamberlain
+- D. S. Baldwin
+- J. E. Grant
 tags:
 - Placebo Gambling
 categories: []
 date: '2021-01-01'
 lastmod: 2022-05-25T22:03:22+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-25T21:03:22.255417Z'
+publishDate: '2022-06-13T15:52:34.411636Z'
 publication_types:
 - '2'
 abstract: ''
