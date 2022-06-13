@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - C. A. Brown
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 - A. K. P. Jones
 tags: []
 categories: []

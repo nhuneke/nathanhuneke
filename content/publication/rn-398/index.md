@@ -5,7 +5,7 @@ title: Experimental placebo analgesia changes resting-state alpha oscillations
 subtitle: ''
 summary: ''
 authors:
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 - C. A. Brown
 - E. Burford
 - A. Watson

@@ -6,7 +6,7 @@ title: 'Brain Functional Connectivity Correlates of Response in the 7.5% CO2 Inh
 subtitle: ''
 summary: ''
 authors:
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 - M. J. Broulidakis
 - A. Darekar
 - D. S. Baldwin

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - D. S. Baldwin
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 tags: []
 categories: []
 date: '2020-01-01'

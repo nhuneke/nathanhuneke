@@ -6,7 +6,7 @@ title: Does previous experience of antidepressants form the expectations necessa
 subtitle: ''
 summary: ''
 authors:
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 - D. S. Baldwin
 tags: []
 categories: []

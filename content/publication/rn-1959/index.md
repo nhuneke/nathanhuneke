@@ -59,7 +59,7 @@ authors:
 - K. Poinasamy
 - L. V. Wain
 - C. E. Brightling
-- '**Phosp-Covid Collaborative Group**'
+- Phosp-Covid Collaborative Group
 tags:
 - Acute Disease Adult Aged *COVID-19/complications Cognition Comorbidity Female Follow-Up
   Studies *Health Status Hospitalization Humans Male *Mental Health Middle Aged Prospective

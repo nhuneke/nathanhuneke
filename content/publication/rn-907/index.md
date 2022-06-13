@@ -6,7 +6,7 @@ title: No evidence for an acute placebo effect on emotional processing in health
 subtitle: ''
 summary: ''
 authors:
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 - A. E. Walsh
 - R. Brown
 - M. Browning

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. E. L. Walsh
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 - R. Brown
 - M. Browning
 - P. Cowen

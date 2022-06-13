@@ -9,7 +9,7 @@ authors:
 - D.S. Baldwin
 - R. Hou
 - R. Gordon
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 - Matthew Garner
 tags: []
 categories: []

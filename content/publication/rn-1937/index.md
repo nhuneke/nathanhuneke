@@ -6,7 +6,7 @@ title: Diverse predictors of treatment response to active medication and placebo
 subtitle: ''
 summary: ''
 authors:
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 - S. R. Chamberlain
 - D. S. Baldwin
 - J. E. Grant

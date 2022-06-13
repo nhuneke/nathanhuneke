@@ -6,7 +6,7 @@ title: 'Difficult decisions: are intellectually disabled patients given enough i
 subtitle: ''
 summary: ''
 authors:
-- '**N. T. M. Huneke**'
+- N. T. M. Huneke
 - R. Gupta
 - N. Halder
 - N. Chaudhry
