@@ -6,7 +6,7 @@ title: 'Functional neuroimaging correlates of placebo response in patients with 
 subtitle: ''
 summary: ''
 authors:
-- **N. T. M. Huneke**
+- '**N. T. M. Huneke**'
 - I. H. Aslan
 - H. Fagan
 - N. Phillips

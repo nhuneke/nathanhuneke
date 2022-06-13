@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - A. K. Jones
-- **N. T. M. Huneke**
+- '**N. T. M. Huneke**'
 - D. M. Lloyd
 - C. A. Brown
 - A. Watson

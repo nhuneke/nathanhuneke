@@ -6,7 +6,7 @@ title: 'A Modified Trier Social Stress Test to Investigate Social Anxiety using 
 subtitle: ''
 summary: ''
 authors:
-- **N. T. M. Huneke**
+- '**N. T. M. Huneke**'
 - H. Rowlatt
 - J. Hyde
 - A. McEwan

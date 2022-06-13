@@ -5,7 +5,7 @@ title: Why we need more research into the placebo response in psychiatry
 subtitle: ''
 summary: ''
 authors:
-- **N. T. M. Huneke**
+- '**N. T. M. Huneke**'
 - N. van der Wee
 - M. Garner
 - D. S. Baldwin

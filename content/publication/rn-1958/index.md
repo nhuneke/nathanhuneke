@@ -18,7 +18,7 @@ authors:
 - M. Garner
 - R. Gordon
 - N. Hall
-- **N. T. M. Huneke**
+- '**N. T. M. Huneke**'
 - S. Kucukterzi-Ali
 - J. McCarthy
 - D. Meron
