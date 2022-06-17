@@ -23,7 +23,7 @@ feature:
 - description: 
   icon: brain
   icon_pack: fas
-  name: Cognitive Neuroscience
+  name: Affective Neuroscience
 - description: 
   icon: r-project
   icon_pack: fab
