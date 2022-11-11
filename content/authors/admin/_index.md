@@ -55,7 +55,7 @@ social:
   link: https://twitter.com/nathanhuneke
 - icon: mastodon
   icon_pack: fab
-  link: <a rel="me" href="https://fediscience.org/@nathanhuneke">Mastodon</a>
+  link: "https://fediscience.org/@nathanhuneke"
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=Je3l5mYAAAAJ&hl=en&oi=sra
@@ -84,3 +84,5 @@ Nathan Huneke is a Clinical Research Fellow at the University Department of Psyc
 affective disorders, which he explores through research into experimental models of anxiety, neuroimaging of threat processing, and placebo effects.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+<a rel="me" href="https://fediscience.org/@nathanhuneke">Mastodon</a>
