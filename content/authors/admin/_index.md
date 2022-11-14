@@ -55,7 +55,7 @@ social:
   link: https://twitter.com/nathanhuneke
 - icon: mastodon
   icon_pack: fab
-  link: <link rel="me" href="https://fediscience.org/@nathanhuneke">
+  link: 'rel="me" https://fediscience.org/@nathanhuneke'
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=Je3l5mYAAAAJ&hl=en&oi=sra
