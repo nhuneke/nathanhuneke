@@ -6,7 +6,7 @@ title: Nathan Huneke
 superuser: true
 
 # Role/position/tagline
-role: Clinical Research Fellow
+role: NIHR Academic Clinical Lecturer in General Adult Psychiatry
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Clinical Neurosciences
     institution: University of Southampton
-    year: 2019 - current
+    year: 2023
   - course: MRCPsych
     institution: Royal College of Psychiatrists
     year: 2017
@@ -51,7 +51,7 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0001-5981-6707
 - icon: twitter
-  icon_pack: fab
+  icon_pack: hb
   link: https://twitter.com/nathanhuneke
 - icon: mastodon
   icon_pack: fab
@@ -80,8 +80,8 @@ email: ""
 highlight_name: true
 ---
 
-Nathan Huneke is a Clinical Research Fellow at the University Department of Psychiatry, University of Southampton, UK. He is interested in the mechanisms that cause anxiety and
-affective disorders, which he explores through research into experimental models of anxiety, neuroimaging of threat processing, and placebo effects.
+Nathan Huneke is an NIHR Academic Clinical Lecturer at the University Department of Psychiatry, University of Southampton, UK. He is interested in the mechanisms that cause anxiety and
+affective disorders, which he explores through research with experimental models of anxiety and neuroimaging of emotional processing. He is also interested in understanding the mechanisms of the placebo and nocebo responses in mental disorders.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
