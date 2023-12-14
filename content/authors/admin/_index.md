@@ -51,11 +51,8 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0001-5981-6707
 - icon: twitter
-  icon_pack: hb
-  link: https://twitter.com/nathanhuneke
-- icon: mastodon
   icon_pack: fab
-  link: https://fediscience.org/@nathanhuneke
+  link: https://twitter.com/nathanhuneke
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=Je3l5mYAAAAJ&hl=en&oi=sra
