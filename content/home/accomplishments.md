@@ -25,6 +25,14 @@ date_format: "2006"
 item:
 - certificate_url: 
   date_end: ""
+  date_start: "2023-11-15"
+  description: "Highly commended for my research"
+  organization: Royal College of Psychiatrists
+  organization_url: "https://bap.org.uk"
+  title: Highly Commended in the RCPsych Award 2023 category of Academic Researcher of the Year
+  url: ""
+- certificate_url: 
+  date_end: ""
   date_start: "2020-01-01"
   description: "A singular award for excellent research"
   organization: British Association for Psychopharmacology
