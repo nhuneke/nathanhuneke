@@ -28,7 +28,7 @@ item:
   date_start: "2023-11-15"
   description: "Highly commended for my research"
   organization: Royal College of Psychiatrists
-  organization_url: "https://bap.org.uk"
+  organization_url: "https://www.rcpsych.ac.uk/"
   title: Highly Commended in the RCPsych Award 2023 category of Academic Researcher of the Year
   url: ""
 - certificate_url: 
