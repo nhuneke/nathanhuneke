@@ -25,7 +25,7 @@ experience:
   - title: NIHR Academic Clinical Lecturer in General Adult Psychiatry
     company: University of Southampton
     company_url: 'www.nihr.ac.uk'
-    company_logo: '../images/funded-by-nihr-logo.png'
+    company_logo: funded-by-nihr-logo
     # location: California
     date_start: '2023-11-01'
     date_end: ''
@@ -46,7 +46,7 @@ experience:
   - title: Visiting Research Fellow
     company: University of Southampton
     company_url: 'https://www.southampton.ac.uk/'
-    company_logo: '../../images/USH0149_LOGO-2021_RGB_Marine-Blue_Punched-AW.png'
+    company_logo: uos
     date_start: '2023-02-01'
     date_end: '2023-11-01'
 
