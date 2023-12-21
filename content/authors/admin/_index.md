@@ -18,10 +18,10 @@ bio: My research interests include experimental models of anxiety, neuroimaging 
 
 # Interests to show in About widget
 interests:
-- Anxiety Disorders
-- Psychopharmacology
-- Placebo effects
+- Experimental medicine
 - Neuroimaging
+- Placebo and nocebo effects
+- Affective and anxiety disorders
 
 # Education to show in About widget
 education:
