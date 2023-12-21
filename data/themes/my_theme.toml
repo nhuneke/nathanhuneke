@@ -3,11 +3,11 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#C7E5EB"
+  primary = "#84DCC6"
 
   # Menu
-  menu_primary = "#C7E5EB" # Material 500
-  menu_text = "#fff"
+  menu_primary = "#84DCC6" # Material 500
+  menu_text = "#000000"
   menu_text_active = "#ffeb3b" # Material Complemantary 500
   menu_title = "#fff"
 
@@ -17,17 +17,17 @@ name = "my_theme"
 
 [dark]
   # Primary
-  primary = "#C7E5EB"
+  primary = "#84DCC6"
 
   # Menu
   menu_primary = "rgb(20, 22, 34)"
   menu_text = "rgba(255,255,255,0.6)"
-  menu_text_active = "#C7E5EB"
+  menu_text_active = "#84DCC6"
   menu_title = "#fff"
 
   # Home sections
   home_section_odd = "hsla(231, 15%, 18%, 1)"
   home_section_even = "hsla(231, 15%, 16%, 1)"
 
-  link = "#C7E5EB"
-  link_hover = "#C7E5EB"
+  link = "#84DCC6"
+  link_hover = "#84DCC6"
