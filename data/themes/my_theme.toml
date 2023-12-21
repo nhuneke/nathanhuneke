@@ -21,7 +21,6 @@ name = "my_theme"
 [dark]
   # Primary
   primary = "hsl(339, 90%, 68%)"
-  text = "hsl(339, 90%, 68%)"
 
   # Menu
   menu_primary = "rgb(20, 22, 34)"
