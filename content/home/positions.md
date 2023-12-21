@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Current and Previuos Positions
+title: Current and Previous Positions
 subtitle:
 
 # Date format for experience
