@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: my_theme
-  theme_night: my_theme
+  theme_day: Ocean
+  theme_night: Ocean
   font: Minimal
   font_size: M
 
