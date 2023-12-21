@@ -20,18 +20,18 @@ name = "my_theme"
 
 [dark]
   # Primary
-  primary = "#304D6D"
+  primary = "#001C55"
 #  text = "#8342a8"
 #  link_decoration = "underline"
   
-  menu_primary = "#304D6D"
-  menu_text_active = "#A7CCED"
+  menu_primary = "#00072D"
+  menu_text_active = "#0E6BA8"
   
-  background = "#545E75"
+  background = "#001C55"
   
   # Home sections
-  home_section_odd = "#545E75"
-  home_section_even = "#304D6D"
+  home_section_odd = "#001C55"
+  home_section_even = "#001C55"
 
-  link = "#63ADF2"
-  link_hover = "#A7CCED"
+  link = "#0E6BA8"
+  link_hover = "#FFFFFF"
