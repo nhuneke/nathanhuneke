@@ -76,10 +76,13 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+</br ></br > 
+I am an NIHR Academic Clinical Lecturer at the University of Southampton, UK. 
 
-Nathan Huneke is an NIHR Academic Clinical Lecturer at the University Department of Psychiatry, University of Southampton, UK. He is interested in the mechanisms that cause anxiety and
-affective disorders, which he explores through research with experimental models of anxiety and neuroimaging of emotional processing. He is also interested in understanding the mechanisms of the placebo and nocebo responses in mental disorders.
+I am interested in the mechanisms that cause anxiety and affective disorders, which I explore through research with experimental models of anxiety and neuroimaging of emotional processing. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+I am also interested in understanding the mechanisms of the placebo and nocebo responses in mental disorders.
+
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 
