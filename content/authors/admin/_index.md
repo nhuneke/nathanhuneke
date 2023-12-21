@@ -83,6 +83,6 @@ I am interested in the mechanisms that cause anxiety and affective disorders, wh
 
 I am also interested in understanding the mechanisms of the placebo and nocebo responses in mental disorders.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}
 
 
