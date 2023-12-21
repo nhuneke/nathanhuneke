@@ -3,17 +3,17 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#ece2d0"
+  primary = "#bfb5af"
 
   # Menu
-  menu_primary = "#bfb5af"
+  menu_primary = "#ece2d0"
   menu_text = "#000000"
   menu_text_active = "#A26769"
   menu_title = "#A26769"
 
   # Home sections
-  home_section_odd = "ece2d0"
-  home_section_even = "#bfb5af"
+  home_section_odd = "#bfb5af"
+  home_section_even = "#ece2d0"
   
   link = "#A26769"
   link_hover = "#000000"
@@ -24,14 +24,14 @@ name = "my_theme"
 #  text = "#8342a8"
 #  link_decoration = "underline"
   
-  menu_primary = "#545E75"
+  menu_primary = "#304D6D"
   menu_text_active = "#A7CCED"
   
-  background = "#304D6D"
+  background = "#545E75"
   
   # Home sections
-  home_section_odd = "#304D6D"
-  home_section_even = "#545E75"
+  home_section_odd = "#545E75"
+  home_section_even = "#304D6D"
 
   link = "#63ADF2"
   link_hover = "#A7CCED"
