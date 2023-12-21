@@ -3,34 +3,31 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#bfb5af"
+  primary = "#C7E5EB"
 
   # Menu
-  menu_primary = "#ece2d0"
-  menu_text = "#000000"
-  menu_text_active = "#A26769"
-  menu_title = "#A26769"
+  menu_primary = "#C7E5EB" # Material 500
+  menu_text = "#fff"
+  menu_text_active = "#ffeb3b" # Material Complemantary 500
+  menu_title = "#fff"
 
   # Home sections
-  home_section_odd = "#bfb5af"
-  home_section_even = "#ece2d0"
-  
-  link = "#A26769"
-  link_hover = "#000000"
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
 
 [dark]
   # Primary
-  primary = "hsl(339, 90%, 68%)"
+  primary = "#C7E5EB"
 
   # Menu
   menu_primary = "rgb(20, 22, 34)"
   menu_text = "rgba(255,255,255,0.6)"
-  menu_text_active = "rgba(255,255,255,1)"
+  menu_text_active = "#C7E5EB"
   menu_title = "#fff"
 
   # Home sections
   home_section_odd = "hsla(231, 15%, 18%, 1)"
   home_section_even = "hsla(231, 15%, 16%, 1)"
 
-  link = "hsl(339, 90%, 68%)"
-  link_hover = "hsl(339, 90%, 68%)"
+  link = "#C7E5EB"
+  link_hover = "#C7E5EB"
