@@ -8,30 +8,30 @@ name = "my_theme"
   # Menu
   menu_primary = "#bfb5af"
   menu_text = "#000000"
-  menu_text_active = "#ece2d0"
-  menu_title = "#ece2d0"
+  menu_text_active = "#A26769"
+  menu_title = "#A26769"
 
   # Home sections
-  home_section_odd = "bfb5af"
-  home_section_even = "#ece2d0"
+  home_section_odd = "ece2d0"
+  home_section_even = "#bfb5af"
   
   link = "#A26769"
   link_hover = "#000000"
 
 [dark]
   # Primary
-  primary = "#F3B26D"
+  primary = "#304D6D"
 #  text = "#8342a8"
 #  link_decoration = "underline"
   
-  menu_primary = "#0E182E"
-  menu_text_active = "#F3B26D"
+  menu_primary = "#545E75"
+  menu_text_active = "#A7CCED"
   
-  background = "#1C2945"
+  background = "#304D6D"
   
   # Home sections
-  home_section_odd = "#1C2945"
-  home_section_even = "#0E182E"
+  home_section_odd = "#304D6D"
+  home_section_even = "#545E75"
 
-  link = "#F3B26D"
-  link_hover = "#377DE8"
+  link = "#63ADF2"
+  link_hover = "#A7CCED"
