@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: NIHR Academic Clinical Lecturer in General Adult Psychiatry
     company: University of Southampton
-    company_url: 'https://www.nihr.ac.uk'
+    company_url: 'https://www.southampton.ac.uk/people/5xfvyq/doctor-nathan-huneke'
     # company_logo: 'funded-by-nihr-logo.png'
     # location: California
     date_start: '2023-11-01'
