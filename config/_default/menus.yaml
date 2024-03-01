@@ -17,7 +17,7 @@ main:
 #    url: '#talks'
 #    weight: 40
   - name: Publications
-    url: 'content/publications.md'
+    url: publication/index.md
     weight: 30
   - name: Skills
     url: '#skills'
