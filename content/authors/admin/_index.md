@@ -59,6 +59,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nhuneke
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nathanhuneke/
 - icon: osf
   icon_pack: ai
   link: https://osf.io/fvynh/
