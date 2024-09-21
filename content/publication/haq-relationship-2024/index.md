@@ -1,0 +1,14 @@
+---
+title: "The relationship between blinding integrity and medication efficacy in randomised-controlled trials in patients with anxiety disorders: A systematic review and meta-analysis"
+date: 2024-01-01
+publishDate: 2024-09-21T10:02:54.688208Z
+authors: ["Ruqayyah Haq", "Laura Molteni", "Nathan T. M. Huneke"]
+publication_types: ["2"]
+abstract: "Background Blinding is thought to minimise expectancy effects and biases in double-blind randomised-controlled trials (RCTs). However, whether blinding integrity should be assessed and reported remains debated. Furthermore, it is unknown whether blinding failure influences the outcome of RCTs in anxiety disorders. We carried out a systematic review to understand whether blinding integrity is assessed and reported in anxiolytic RCTs. A secondary aim was to explore whether blinding integrity is associated with treatment efficacy. Method Our protocol was pre-registered (PROSPERO CRD42022328750). We searched electronic databases for placebo-controlled, randomised trials of medication in adults with generalised and social anxiety disorders, and in panic disorder, from 1980. We extracted data regarding blinding integrity and treatment efficacy. Risk of bias was assessed with the Cochrane risk of bias tool. Where possible, we subsequently calculated Bang's Blinding Index, and assessed the association between blinding integrity and treatment effect size. Results Of the 248 RCTs that met inclusion criteria, we were able to obtain assessments of blinding integrity from nine (3.63%). Overall, blinding failed in five of these trials (55.56%), but blinding was intact in 80% of placebo arms. We found a significant association between reduced blinding integrity among assessors and increased treatment effect size (betas textless −6.50, p's textless 0.001), but this analysis involved only four studies of which two were outlying studies. In patients, we saw a non-significant trend where reduced blinding integrity in the placebo groups was associated with increased treatment efficacy, which was not present in active medication arms. Conclusion Consistent with work in other psychiatric disorders, blinding integrity is rarely reported in anxiolytic RCTs. Where it is reported, blinding appears to often fail. We found signals that suggest unblinding of clinician assessors (driven by two studies with complete unblinding), and of patients in placebo arms, might be associated with larger treatment effect sizes. We recommend that data regarding blinding integrity, along with the reasons patients and assessors offer for their beliefs regarding group allocation, are systematically collected in RCTs of anxiolytic treatment."
+featured: true
+publication: "*Acta Psychiatrica Scandinavica*"
+tags: ["placebo", "anxiety disorders", "clinical trials", "expectancy"]
+url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/acps.13741"
+doi: "10.1111/acps.13741"
+---
+
