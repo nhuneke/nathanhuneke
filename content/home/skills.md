@@ -38,7 +38,7 @@ feature:
   name: Shell Scripting
 - description:
   icon: osf
-  icon_pack: fab
+  icon_pack: ai
   name: Open Science
 
 # Uncomment to use emoji icons.
