@@ -37,9 +37,9 @@ feature:
   icon_pack: fas
   name: Shell Scripting
 - description:
-  icon: pen-fancy
-  icon_pack: fas
-  name: Academic Writing
+  icon: osf
+  icon_pack: fab
+  name: Open Science
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
